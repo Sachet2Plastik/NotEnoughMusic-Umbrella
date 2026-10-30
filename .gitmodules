@@ -1,0 +1,6 @@
+[submodule "Fabric"]
+	path = Fabric
+	url = git@github.com:Sachet2Plastik/NotEnoughMusic.git
+[submodule "NeoForge"]
+	path = NeoForge
+	url = git@github.com:Sachet2Plastik/NotEnoughMusic-NeoForge.git
